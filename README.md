@@ -15,4 +15,4 @@ A feature-rich Discord bot for managing server activities, tracking playtime, an
 ## Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/discord-bot.git
+   git clone https://github.com/Alan-Saji-33/discord-bot.git
