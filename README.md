@@ -1,4 +1,4 @@
-# Arackal Tharavadu Discord Bot
+# Cypher V2 Discord Bot
 
 A feature-rich Discord bot for managing server activities, tracking playtime, and moderating the Arackal Tharavadu server.
 
